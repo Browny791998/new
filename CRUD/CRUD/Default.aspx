@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div>
-        <div style="font-size:x-large" align="center">Student Info Manage Form</div>
+        <div style="font-size:x-large" align="center">Student Info Management Form</div>
         <table class="nav-justified" style="height: 305px; width: 95%">
             <tr>
                 <td style="width: 120px">&nbsp;</td>
